@@ -1,0 +1,21 @@
+
+#sketch-holder {
+        position: relative;
+        width: 300px;
+        height: 150px;
+      }
+
+      #sketch-holder canvas {
+        display: block;
+      }
+
+      .guardar-hora-btn {
+        position: absolute;
+        right: 10px;
+        bottom: 3px;
+      }
+      .guardar-data-btn {
+        position: absolute;
+        right: 10px;
+        bottom: 20px;
+      }
